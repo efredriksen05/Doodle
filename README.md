@@ -11,6 +11,3 @@ Users can freely choose the size of the grid, giving them the flexibility to wor
 - Customizable Grid Size: Adapt the canvas to your desired level of detail.
 
 ## Visualisation of the application
-
-![Frontpage](/images/frontpage.png)
-![Canvas page](/images/canvaspage.png)
