@@ -1,0 +1,11 @@
+package doodleproject;
+
+import javafx.scene.paint.Color;
+
+public class EraseTool implements Tool {
+
+    @Override
+    public void apply(PixelGrid grid, int x, int y, Color color){
+        grid.setPixel(x, y, Color.WHITE);
+    }
+}
